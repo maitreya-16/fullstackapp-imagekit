@@ -1,4 +1,4 @@
-# FullstackApp
+# FullstackApp-Imagekit
 
 A modern full-stack web application built with [Next.js](https://nextjs.org) and TypeScript, designed for video upload, management, and authentication.
 
